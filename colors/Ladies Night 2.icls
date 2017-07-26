@@ -519,6 +519,52 @@
         <option name="FOREGROUND" value="9876aa" />
       </value>
     </option>
+    <option name="KDOC_LINK">
+      <value>
+        <option name="FOREGROUND" value="3d3d3d" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="KOTLIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="2e4b6f" />
+      </value>
+    </option>
+    <option name="KOTLIN_BUILTIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="e784a2" />
+        <option name="BACKGROUND" value="21282d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="e784a2" />
+        <option name="BACKGROUND" value="21282d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_PACKAGE_PROPERTY">
+      <value>
+        <option name="FOREGROUND" value="fefffb" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="KOTLIN_SMART_CAST_RECEIVER">
+      <value>
+        <option name="BACKGROUND" value="4b6e3f" />
+      </value>
+    </option>
+    <option name="KOTLIN_SMART_CAST_VALUE">
+      <value>
+        <option name="BACKGROUND" value="4b6e3f" />
+      </value>
+    </option>
+    <option name="KOTLIN_SMART_CONSTANT">
+      <value>
+        <option name="BACKGROUND" value="4b6e3f" />
+      </value>
+    </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value />
     </option>
