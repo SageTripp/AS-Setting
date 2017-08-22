@@ -27,6 +27,7 @@
     <option name="LINE_NUMBERS_COLOR" value="81969a" />
     <option name="METHOD_SEPARATORS_COLOR" value="2f393c" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
+    <option name="NOTIFICATION_BACKGROUND" value="605811" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="e0e2e4" />
@@ -188,6 +189,17 @@
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffcd22" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.CaretRow">
+      <value>
+        <option name="BACKGROUND" value="fffae3" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.DeletedData">
+      <value>
+        <option name="FOREGROUND" value="7f7f7f" />
+        <option name="BACKGROUND" value="f4f4f4" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
